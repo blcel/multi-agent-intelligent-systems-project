@@ -1,0 +1,234 @@
+Agent,Steps,Reached Goal,Time Taken (s)
+Simple Reflex,9,No,0.0
+Simple Reflex,9,No,0.0
+Goal-Based (A*),12,Yes,0.0033
+Model-Based,12,Yes,0.0003
+Simple Reflex,19,Yes,0.0
+Goal-Based (A*),15,Yes,0.0
+Model-Based,19,Yes,0.0
+Goal-Based (A*),6,Yes,0.0
+Simple Reflex,9,No,0.0
+Goal-Based (A*),6,Yes,0.0
+Model-Based,6,Yes,0.0
+Model-Based,6,Yes,0.0
+Simple Reflex,9,No,0.0
+Goal-Based (A*),6,Yes,0.0
+Model-Based,6,Yes,0.0
+Simple Reflex,9,No,0.0
+Simple Reflex,6,No,0.0
+Goal-Based (A*),12,Yes,0.0
+Model-Based,14,Yes,0.0
+Goal-Based (A*),12,Yes,0.0
+Simple Reflex,6,No,0.0
+Goal-Based (A*),10,Yes,0.0
+Model-Based,12,Yes,0.0
+Simple Reflex,3,Yes,0.0
+Goal-Based (A*),3,Yes,0.0
+Model-Based,3,Yes,0.0005
+Simple Reflex,22,No,0.0
+Goal-Based (A*),6,Yes,0.0
+Model-Based,6,Yes,0.0
+Simple Reflex,15,No,0.0
+Goal-Based (A*),15,Yes,0.0033
+Model-Based,17,Yes,0.0002
+Simple Reflex,15,No,0.0
+Goal-Based (A*),15,Yes,0.0029
+Model-Based,17,Yes,0.0001
+Simple Reflex,8,Yes,0.0
+Simple Reflex,8,Yes,0.0
+Goal-Based (A*),8,Yes,0.0
+Model-Based,8,Yes,0.0
+Model-Based,8,Yes,0.0
+Simple Reflex,8,Yes,0.0
+Goal-Based (A*),8,Yes,0.0
+Model-Based,8,Yes,0.0
+Simple Reflex,6,No,0.0
+Goal-Based (A*),10,Yes,0.0
+Model-Based,12,Yes,0.0
+Simple Reflex,34,No,0.0
+Goal-Based (A*),9,Yes,0.0
+Model-Based,9,Yes,0.0
+Simple Reflex,22,No,0.0
+Goal-Based (A*),8,Yes,0.0
+Model-Based,8,Yes,0.0
+Simple Reflex,2,No,0.0
+Goal-Based (A*),4,Yes,0.0
+Model-Based,4,Yes,0.0
+Simple Reflex,14,Yes,0.0
+Goal-Based (A*),12,Yes,0.0
+Model-Based,12,Yes,0.0
+Simple Reflex,25,No,0.0
+Goal-Based (A*),0,No,0.0
+Model-Based,0,No,0.0
+Goal-Based (A*),0,No,0.0
+Simple Reflex,25,No,0.0
+Goal-Based (A*),0,No,0.0
+Model-Based,0,No,0.0
+Simple Reflex,11,No,0.0
+Goal-Based (A*),13,Yes,0.0031
+Model-Based,13,Yes,0.0001
+Simple Reflex,21,No,0.0
+Goal-Based (A*),9,Yes,0.0
+Model-Based,13,Yes,0.0
+Simple Reflex,18,Yes,0.0
+Goal-Based (A*),14,Yes,0.0
+Model-Based,14,Yes,0.0
+Simple Reflex,11,No,0.0
+Goal-Based (A*),9,Yes,0.0
+Model-Based,9,Yes,0.0
+Simple Reflex,26,No,0.0
+Goal-Based (A*),12,Yes,0.0
+Model-Based,14,Yes,0.0
+Simple Reflex,5,Yes,0.0
+Goal-Based (A*),5,Yes,0.0
+Model-Based,5,Yes,0.0
+Simple Reflex,34,No,0.0
+Goal-Based (A*),11,Yes,0.0
+Model-Based,11,Yes,0.0001
+Simple Reflex,4,Yes,0.0
+Goal-Based (A*),4,Yes,0.0
+Model-Based,4,Yes,0.0
+Simple Reflex,23,Yes,0.0
+Goal-Based (A*),9,Yes,0.0
+Model-Based,9,Yes,0.0
+Simple Reflex,9,Yes,0.0
+Goal-Based (A*),9,Yes,0.0
+Model-Based,9,Yes,0.0
+Simple Reflex,19,No,0.0
+Goal-Based (A*),4,Yes,0.0
+Model-Based,4,Yes,0.0
+Simple Reflex,9,No,0.0
+Goal-Based (A*),12,Yes,0.0
+Model-Based,18,Yes,0.0
+Simple Reflex,17,Yes,0.0
+Goal-Based (A*),15,Yes,0.0
+Model-Based,17,Yes,0.0
+Simple Reflex,8,No,0.0
+Goal-Based (A*),14,Yes,0.0
+Model-Based,14,Yes,0.0
+Simple Reflex,17,No,0.0
+Goal-Based (A*),12,Yes,0.0
+Model-Based,12,Yes,0.0
+Simple Reflex,15,No,0.0
+Goal-Based (A*),9,Yes,0.0
+Model-Based,9,Yes,0.0
+Simple Reflex,6,Yes,0.0
+Goal-Based (A*),6,Yes,0.0
+Model-Based,6,Yes,0.0
+Simple Reflex,6,Yes,0.0
+Goal-Based (A*),6,Yes,0.0
+Model-Based,6,Yes,0.0
+Simple Reflex,22,No,0.0
+Goal-Based (A*),6,Yes,0.0
+Model-Based,20,Yes,0.0
+Simple Reflex,14,No,0.0
+Goal-Based (A*),5,Yes,0.0
+Model-Based,5,Yes,0.0
+Simple Reflex,3,No,0.0
+Goal-Based (A*),9,Yes,0.0
+Model-Based,9,Yes,0.0
+Simple Reflex,10,No,0.0
+Goal-Based (A*),3,Yes,0.0
+Model-Based,3,Yes,0.0
+Simple Reflex,15,No,0.0
+Goal-Based (A*),9,Yes,0.0
+Model-Based,9,Yes,0.0
+Simple Reflex,10,No,0.0
+Goal-Based (A*),13,Yes,0.0
+Model-Based,15,Yes,0.0
+Simple Reflex,3,No,0.0
+Goal-Based (A*),15,Yes,0.0
+Model-Based,15,Yes,0.0
+Simple Reflex,4,No,0.0
+Goal-Based (A*),14,Yes,0.0
+Model-Based,14,Yes,0.0
+Simple Reflex,10,Yes,0.0
+Goal-Based (A*),10,Yes,0.0
+Model-Based,10,Yes,0.0
+Simple Reflex,2,No,0.0
+Goal-Based (A*),0,No,0.0
+Model-Based,0,No,0.0
+Simple Reflex,22,No,0.0
+Goal-Based (A*),4,Yes,0.0
+Model-Based,4,Yes,0.0
+Simple Reflex,22,No,0.0
+Goal-Based (A*),4,Yes,0.0
+Model-Based,4,Yes,0.0
+Simple Reflex,31,No,0.0
+Goal-Based (A*),4,Yes,0.0
+Model-Based,4,Yes,0.0
+Simple Reflex,30,No,0.0
+Goal-Based (A*),4,Yes,0.0
+Model-Based,4,Yes,0.0
+Simple Reflex,10,No,0.0
+Goal-Based (A*),6,Yes,0.0
+Model-Based,6,Yes,0.0
+Simple Reflex,3,Yes,0.0
+Goal-Based (A*),3,Yes,0.0
+Model-Based,3,Yes,0.0
+Simple Reflex,12,Yes,0.0
+Goal-Based (A*),12,Yes,0.0
+Model-Based,12,Yes,0.0
+Simple Reflex,27,No,0.0
+Goal-Based (A*),10,Yes,0.0
+Model-Based,10,Yes,0.0
+Simple Reflex,16,No,0.0
+Goal-Based (A*),10,Yes,0.0
+Model-Based,10,Yes,0.0
+Simple Reflex,8,No,0.0
+Goal-Based (A*),8,Yes,0.0
+Model-Based,8,Yes,0.0
+Simple Reflex,16,Yes,0.0
+Goal-Based (A*),14,Yes,0.0
+Model-Based,16,Yes,0.0
+Simple Reflex,14,No,0.0
+Goal-Based (A*),6,Yes,0.0
+Model-Based,6,Yes,0.0
+Simple Reflex,3,Yes,0.0
+Goal-Based (A*),3,Yes,0.0
+Model-Based,3,Yes,0.0
+Simple Reflex,3,Yes,0.0
+Goal-Based (A*),3,Yes,0.0
+Model-Based,3,Yes,0.0
+Simple Reflex,1,No,0.0
+Goal-Based (A*),0,No,0.0
+Model-Based,0,No,0.0
+Simple Reflex,13,Yes,0.0
+Goal-Based (A*),13,Yes,0.0
+Model-Based,13,Yes,0.0
+Simple Reflex,13,Yes,0.0
+Goal-Based (A*),13,Yes,0.0
+Model-Based,13,Yes,0.0
+Simple Reflex,8,Yes,0.0
+Goal-Based (A*),8,Yes,0.0
+Model-Based,8,Yes,0.0
+Simple Reflex,6,No,0.0
+Goal-Based (A*),0,No,0.0
+Model-Based,0,No,0.0
+Simple Reflex,12,No,0.0
+Goal-Based (A*),13,Yes,0.0
+Model-Based,15,Yes,0.0
+Simple Reflex,34,No,0.0
+Goal-Based (A*),6,Yes,0.0
+Model-Based,6,Yes,0.0006
+Simple Reflex,2,Yes,0.0
+Goal-Based (A*),2,Yes,0.0
+Model-Based,2,Yes,0.0
+Simple Reflex,2,Yes,0.0
+Goal-Based (A*),2,Yes,0.0
+Model-Based,2,Yes,0.0
+Simple Reflex,4,Yes,0.0
+Goal-Based (A*),4,Yes,0.0
+Model-Based,4,Yes,0.0
+Simple Reflex,34,No,0.0
+Goal-Based (A*),9,Yes,0.0
+Model-Based,9,Yes,0.0
+Simple Reflex,8,Yes,0.0
+Goal-Based (A*),8,Yes,0.0
+Model-Based,8,Yes,0.0
+Simple Reflex,5,No,0.0
+Goal-Based (A*),11,Yes,0.0
+Model-Based,11,Yes,0.0
+Simple Reflex,4,No,0.0
+Goal-Based (A*),13,Yes,0.0
+Model-Based,15,Yes,0.0
